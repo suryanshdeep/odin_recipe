@@ -1,0 +1,39 @@
+body{
+    background-color:rosybrown;
+    color:#000000;
+    text-align:center;
+}
+h1{
+    background-color:rgb(149, 194, 233);
+    font-family: Verdana,serif;
+    color:gold;
+}
+img{
+    border-color: blue;
+    border-style:groove;
+    border-radius:20px;
+}
+h3{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:700;
+}
+
+#directions1,.directions2,.directions3{
+    text-align:left;
+    background-color:gold;
+}
+#ing1,.Ing2,.Ing3{
+    list-style-type: square;
+    list-style-position:inside;
+    text-align:left;
+    text-indent: 43%;
+}
+.Ingredients1,.Ingredients2,.Ingredients3{
+    text-align:center;
+    background-color:pink;
+}
+.recpdesc1,.recipe2,.recipe3{
+    background-color: aquamarine;
+    text-align:left
+}
+   
